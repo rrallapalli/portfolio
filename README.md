@@ -9,6 +9,7 @@
 ## Work Experience:
 
 ## Data, Analytics & AI Work
+![Lending Decision Intelligence - Databricks](https://github.com/rrallapalli/lending-decision-intelligence-databricks.git)
 
 ## Speaking Engagements
 
