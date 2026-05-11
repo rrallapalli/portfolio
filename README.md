@@ -60,6 +60,8 @@ Experimentation with instruction tuning, RAG pipelines, evaluation frameworks, a
 ### 📈 Macroeconomic & Banking Analytics
 Research-oriented ML and analytics workflows exploring interactions between macroeconomic variables, market behavior, and banking sector performance.
 
+[ML-driven Macroeconomic Explanatory Analysis](https://github.com/rrallapalli/ecm-explanatory-model-ml-databricks.git)
+
 ---
 
 ## 🌍 Background
