@@ -66,16 +66,9 @@ Research-oriented ML and analytics workflows exploring interactions between macr
 
 ## 🌍 Background
 
-Previously worked across:
-- UBS
-- CRIF High Mark
-- KPMG
-- Capgemini / Morgan Stanley
+![Previously worked across](/assets/img/previously_worked_at.jpg)
 
-Speaker at:
-- Tableau Conference
-- Gartner BI Summit
-- Industry analytics & insights forums
+![Speaker at:](/assets/img/speaking_engagements.jpg)
 
 ---
 
