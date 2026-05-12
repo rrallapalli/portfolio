@@ -74,6 +74,6 @@ Research-oriented ML and analytics workflows exploring interactions between macr
 
 ## 🔗 Connect
 
-- LinkedIn: www.linkedin.com/in/rakesh-rallapalli
-- Portfolio: https://whoisrakesh.notion.site/
-- GitHub Pages Portfolio: https://github.com/rrallapalli/portfolio
+- [LinkedIn](www.linkedin.com/in/rakesh-rallapalli)
+- [Portfolio: Who is Rakesh](https://whoisrakesh.notion.site/Hey-there-I-m-Rakesh-c3566f97164848b7acdaf03f7df4dbee)
+- [GitHub Portfolio](https://github.com/rrallapalli/portfolio)
