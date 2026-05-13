@@ -68,6 +68,7 @@ Research-oriented ML and analytics workflows exploring interactions between macr
 
 ![Previously worked across](/assets/img/previously_worked_at.jpg)
 
+### Speaking Engagements
 ![Speaker at:](/assets/img/speaking_engagements.jpg)
 
 ---
