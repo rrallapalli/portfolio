@@ -28,7 +28,6 @@ You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/He
         - Analytics & ML experimentation<br>
         - GenAI / RAG implementations<br>
         - Product-oriented data workflows<br>
-        - Enterprise AI architecture concepts<br>
         - Lending, risk, and financial analytics use cases<br>
     </td>
     <td>
