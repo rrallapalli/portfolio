@@ -16,35 +16,28 @@ I enjoy operating across data foundations, analytics, and product strategy, bala
 You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/Hey-there-I-m-Rakesh-c3566f97164848b7acdaf03f7df4dbee)
 
 ---
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<h2>🔍 What You’ll Find Here</h2>
-
-Data & AI solution prototypes<br>
-Databricks and lakehouse projects<br>
-Analytics & ML experimentation<br>
-GenAI / RAG implementations<br>
-Product-oriented data workflows<br>
-Enterprise AI architecture concepts<br>
-Lending, risk, and financial analytics use cases
-
-</td>
-<td width="50%" valign="top">
-
-<h2>🚀 Current Focus Areas</h2>
-
-GenAI & RAG applications<br>
-AI solution architecture<br>
-Databricks Lakehouse & ML workflows<br>
-Data Products & Analytics Platforms<br>
-Feature Engineering & Decision Intelligence<br>
-Enterprise AI adoption patterns
-
-</td>
-  </tr>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">🔍 What You’ll Find Here</b></td>
+    <td><b style="font-size:30px">🚀 Current Focus Areas</b></td>
+ </tr>
+ <tr>
+    <td>Data & AI solution prototypes<br>
+        Databricks and lakehouse projects<br>
+        Analytics & ML experimentation<br>
+        GenAI / RAG implementations<br>
+        Product-oriented data workflows<br>
+        Enterprise AI architecture concepts<br>
+        Lending, risk, and financial analytics use cases
+  </td>
+    <td>GenAI & RAG applications<br>
+        AI solution architecture<br>
+        Databricks Lakehouse & ML workflows<br>
+        Data Products & Analytics Platforms<br>
+        Feature Engineering & Decision Intelligence<br>
+        Enterprise AI adoption patterns
+    </td>
+ </tr>
 </table>
 
 Many of these projects are inspired by real-world enterprise problems around:
