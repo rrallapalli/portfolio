@@ -31,15 +31,7 @@ This GitHub is a mix of:
 - GenAI / RAG implementations  
 - Product-oriented data workflows  
 - Enterprise AI architecture concepts  
-- Lending, risk, and financial analytics use cases  
-
-Many of these projects are inspired by real-world enterprise problems around:
-
-- Decision intelligence  
-- AI adoption  
-- Data monetization  
-- Analytics enablement  
-- Operational transformation  
+- Lending, risk, and financial analytics use cases
 
 </td>
 
@@ -58,6 +50,10 @@ Many of these projects are inspired by real-world enterprise problems around:
 </tr>
 </table>
 
+Many of these projects are inspired by real-world enterprise problems around:
+
+- Decision intelligence  - AI adoption  - Data monetization  - Analytics enablement  - Operational transformation
+ 
 ---
 
 ## 🏗 Featured Projects
