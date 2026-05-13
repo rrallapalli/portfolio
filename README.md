@@ -13,6 +13,8 @@ Over the years, I’ve worked across the full lifecycle of data and AI initiativ
 
 I enjoy operating across data foundations, analytics, and product strategy, balancing deep problem-solving with cross-functional execution.
 
+You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/Hey-there-I-m-Rakesh-c3566f97164848b7acdaf03f7df4dbee)
+
 ---
 
 ## 🔍 What You'll Find Here
