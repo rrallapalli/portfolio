@@ -17,6 +17,11 @@ You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/He
 
 ---
 
+<table border="0">
+<tr>
+
+<td valign="top" width="55%">
+
 ## 🔍 What You'll Find Here
 
 This GitHub is a mix of:
@@ -31,29 +36,27 @@ This GitHub is a mix of:
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 
 ## 🚀 Current Focus Areas
 
-- GenAI & RAG applications  
-- AI solution architecture  
-- Databricks Lakehouse & ML workflows  
-- Data Products & Analytics Platforms  
-- Feature Engineering & Decision Intelligence  
-- Enterprise AI adoption patterns  
+GenAI & RAG applications • AI solution architecture • Databricks Lakehouse & ML workflows • Data Products & Analytics Platforms • Feature Engineering & Decision Intelligence • Enterprise AI adoption patterns
 
 </td>
+
 </tr>
 </table>
+
+<br>
+
 Many of these projects are inspired by real-world enterprise problems around:
 
-<p align="left">
 🚀 Decision Intelligence &nbsp;&nbsp;•&nbsp;&nbsp;
 🤖 AI Adoption &nbsp;&nbsp;•&nbsp;&nbsp;
 💰 Data Monetization &nbsp;&nbsp;•&nbsp;&nbsp;
 📊 Analytics Enablement &nbsp;&nbsp;•&nbsp;&nbsp;
 ⚙️ Operational Transformation
-</p> 
+
 ---
 
 ## 🏗 Featured Projects
