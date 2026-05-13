@@ -18,36 +18,33 @@ You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/He
 ---
 
 <table>
-<tr>
-<td valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🔍 What You'll Find Here
+<h2>🔍 What You’ll Find Here</h2>
 
-This GitHub is a mix of:
-
-- Data & AI solution prototypes
-- Databricks and lakehouse projects
-- Analytics & ML experimentation
-- GenAI / RAG implementations
-- Product-oriented data workflows
-- Enterprise AI architecture concepts
-- Lending, risk, and financial analytics use cases
+Data & AI solution prototypes<br>
+Databricks and lakehouse projects<br>
+Analytics & ML experimentation<br>
+GenAI / RAG implementations<br>
+Product-oriented data workflows<br>
+Enterprise AI architecture concepts<br>
+Lending, risk, and financial analytics use cases
 
 </td>
+<td width="50%" valign="top">
 
-<td valign="top">
+<h2>🚀 Current Focus Areas</h2>
 
-### 🚀 Current Focus Areas
-
-- GenAI & RAG applications
-- AI solution architecture
-- Databricks Lakehouse & ML workflows
-- Data Products & Analytics Platforms
-- Feature Engineering & Decision Intelligence
-- Enterprise AI adoption patterns
+GenAI & RAG applications<br>
+AI solution architecture<br>
+Databricks Lakehouse & ML workflows<br>
+Data Products & Analytics Platforms<br>
+Feature Engineering & Decision Intelligence<br>
+Enterprise AI adoption patterns
 
 </td>
-</tr>
+  </tr>
 </table>
 
 Many of these projects are inspired by real-world enterprise problems around:
