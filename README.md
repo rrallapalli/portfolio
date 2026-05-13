@@ -17,10 +17,6 @@ You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/He
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ## 🔍 What You'll Find Here
 
 This GitHub is a mix of:
@@ -31,7 +27,7 @@ This GitHub is a mix of:
 - GenAI / RAG implementations  
 - Product-oriented data workflows  
 - Enterprise AI architecture concepts  
-- Lending, risk, and financial analytics use cases
+- Lending, risk, and financial analytics use cases  
 
 </td>
 
@@ -49,11 +45,15 @@ This GitHub is a mix of:
 </td>
 </tr>
 </table>
-
 Many of these projects are inspired by real-world enterprise problems around:
 
-- Decision intelligence  - AI adoption  - Data monetization  - Analytics enablement  - Operational transformation
- 
+<p align="left">
+🚀 Decision Intelligence &nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 AI Adoption &nbsp;&nbsp;•&nbsp;&nbsp;
+💰 Data Monetization &nbsp;&nbsp;•&nbsp;&nbsp;
+📊 Analytics Enablement &nbsp;&nbsp;•&nbsp;&nbsp;
+⚙️ Operational Transformation
+</p> 
 ---
 
 ## 🏗 Featured Projects
