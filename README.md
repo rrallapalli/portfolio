@@ -17,10 +17,9 @@ You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/He
 
 ---
 
-<table border="0">
-<tr>
+<div align="left">
 
-<td valign="top" width="55%">
+<div style="width: 48%; display: inline-block; vertical-align: top;">
 
 ## 🔍 What You'll Find Here
 
@@ -34,28 +33,23 @@ This GitHub is a mix of:
 - Enterprise AI architecture concepts  
 - Lending, risk, and financial analytics use cases  
 
-</td>
+</div>
 
-<td valign="top" width="45%">
+<div style="width: 48%; display: inline-block; vertical-align: top; margin-left: 2%;">
 
 ## 🚀 Current Focus Areas
 
 GenAI & RAG applications • AI solution architecture • Databricks Lakehouse & ML workflows • Data Products & Analytics Platforms • Feature Engineering & Decision Intelligence • Enterprise AI adoption patterns
 
-</td>
+</div>
 
-</tr>
-</table>
+</div>
 
 <br>
 
 Many of these projects are inspired by real-world enterprise problems around:
 
-🚀 Decision Intelligence &nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 AI Adoption &nbsp;&nbsp;•&nbsp;&nbsp;
-💰 Data Monetization &nbsp;&nbsp;•&nbsp;&nbsp;
-📊 Analytics Enablement &nbsp;&nbsp;•&nbsp;&nbsp;
-⚙️ Operational Transformation
+🚀 Decision Intelligence • 🤖 AI Adoption • 💰 Data Monetization • 📊 Analytics Enablement • ⚙️ Operational Transformation
 
 ---
 
