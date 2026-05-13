@@ -22,20 +22,20 @@ You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/He
     <td><b style="font-size:30px">🚀 Current Focus Areas</b></td>
  </tr>
  <tr>
-    <td>Data & AI solution prototypes<br>
-        Databricks and lakehouse projects<br>
-        Analytics & ML experimentation<br>
-        GenAI / RAG implementations<br>
-        Product-oriented data workflows<br>
-        Enterprise AI architecture concepts<br>
-        Lending, risk, and financial analytics use cases
+        - **Data & AI solution prototypes**
+        - **Databricks and lakehouse projects**
+        - **Analytics & ML experimentation**
+        - **GenAI / RAG implementations**
+        - **Product-oriented data workflows**
+        - **Enterprise AI architecture concepts**
+        - **Lending, risk, and financial analytics use cases**
   </td>
-    <td>GenAI & RAG applications<br>
-        AI solution architecture<br>
-        Databricks Lakehouse & ML workflows<br>
-        Data Products & Analytics Platforms<br>
-        Feature Engineering & Decision Intelligence<br>
-        Enterprise AI adoption patterns
+        - **GenAI & RAG applications**
+        - **AI solution architecture**
+        - **Databricks Lakehouse & ML workflows**
+        - **Data Products & Analytics Platforms**
+        - **Feature Engineering & Decision Intelligence**
+        - **Enterprise AI adoption patterns**
     </td>
  </tr>
 </table>
