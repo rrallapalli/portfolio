@@ -59,6 +59,8 @@ End-to-end analytics & AI project built on the Medallion Architecture using Data
 ### 🤖 LLM Fine-Tuning & Enterprise AI Workflows
 Experimentation with instruction tuning, RAG pipelines, evaluation frameworks, and enterprise AI use-case prototyping.
 
+[FineTuneIt-LLM Fine-Tuning made Simple](https://github.com/rrallapalli/LLM-Fine-Tuning-as-a-Service-Platform.git)
+
 ### 📈 Macroeconomic & Banking Analytics
 Research-oriented ML and analytics workflows exploring interactions between macroeconomic variables, market behavior, and banking sector performance.
 
