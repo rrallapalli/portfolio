@@ -17,7 +17,7 @@ You can read more about me at [Who is Rakesh](https://whoisrakesh.notion.site/He
 
 ---
 
-In the past year, I intentionally invested in sharpening my modern AI engineering and applied ML capabilities through an intensive advanced Master’s-level certification program in AI & MLOps ([See how I fared](https://cdn.exec.talentsprint.com/static/cds/transcript/aimlops_c4/2417993.pdf) :smile:) from a premier research institute — alongside building hands-on portfolio projects in GenAI, Databricks, and Decision Intelligence systems.
+In the past year, I intentionally invested in sharpening my modern AI engineering and applied ML capabilities through an intensive advanced Master’s-level certification program in AI & MLOps [See how I fared](https://cdn.exec.talentsprint.com/static/cds/transcript/aimlops_c4/2417993.pdf) 😀 from a premier research institute — alongside building hands-on portfolio projects in GenAI, Databricks, and Decision Intelligence systems.
 
 <table border="0">
  <tr>
