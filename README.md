@@ -51,6 +51,11 @@ Many of these projects are inspired by real-world enterprise problems around:
 
 ## 🏗 Featured Projects
 
+### 📈 Macroeconomic & Banking Analytics
+Research-oriented ML and analytics workflows exploring interactions between macroeconomic variables, market behavior, and banking sector performance.
+
+[ML-driven Macroeconomic Explanatory Analysis](https://github.com/rrallapalli/ecm-explanatory-model-ml-databricks.git)
+
 ### 📊 Lending Decision Intelligence on Databricks
 End-to-end analytics & AI project built on the Medallion Architecture using Databricks Lakehouse, ML workflows, strategy simulations, and explainable insights.
 
@@ -60,11 +65,6 @@ End-to-end analytics & AI project built on the Medallion Architecture using Data
 Experimentation with instruction tuning, RAG pipelines, evaluation frameworks, and enterprise AI use-case prototyping.
 
 [FineTuneIt-LLM Fine-Tuning made Simple](https://github.com/rrallapalli/LLM-Fine-Tuning-as-a-Service-Platform.git)
-
-### 📈 Macroeconomic & Banking Analytics
-Research-oriented ML and analytics workflows exploring interactions between macroeconomic variables, market behavior, and banking sector performance.
-
-[ML-driven Macroeconomic Explanatory Analysis](https://github.com/rrallapalli/ecm-explanatory-model-ml-databricks.git)
 
 ---
 
